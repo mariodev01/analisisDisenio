@@ -1,0 +1,42 @@
+
+bella
+villa ogando
+napolitana
+
+ivan
+villa ogando
+mozarella
+1
+jeremy
+villa ogando
+mozarella
+5
+hansel
+villa ogando
+2
+1
+
+fanny
+villa ogando
+1
+2
+3
+
+Nombre:critian
+Dirección:villa ogando
+Cantidad de Jamón y Queso:2
+Cantidad de Muzzarella:1
+--------------------------------------------------------
+Nombre:eeee
+Dirección:eeeee
+Cantidad de Jamón y Queso:3
+Cantidad de Muzzarella:5
+--------------------------------------------------------
+Nombre:llevate de mi
+Dirección:porfa
+Cantidad de Jamón y Queso:1
+--------------------------------------------------------
+Nombre:mario
+Dirección:villa ogando
+Cantidad de Jamón y Queso: 2
+--------------------------------------------------------
